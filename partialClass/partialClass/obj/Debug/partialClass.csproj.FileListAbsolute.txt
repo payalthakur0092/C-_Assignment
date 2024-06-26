@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\partialClass\partialClass\bin\Debug\partialClass.exe.config
+C:\Users\HP\source\repos\partialClass\partialClass\bin\Debug\partialClass.exe
+C:\Users\HP\source\repos\partialClass\partialClass\bin\Debug\partialClass.pdb
+C:\Users\HP\source\repos\partialClass\partialClass\obj\Debug\partialClass.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\partialClass\partialClass\obj\Debug\partialClass.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\partialClass\partialClass\obj\Debug\partialClass.exe
+C:\Users\HP\source\repos\partialClass\partialClass\obj\Debug\partialClass.pdb
