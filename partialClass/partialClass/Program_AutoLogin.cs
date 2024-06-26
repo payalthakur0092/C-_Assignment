@@ -24,6 +24,7 @@ namespace BirthdayProgram
                 while (!IsValidChoice(choice, 1, 2))
                 {
                     Console.WriteLine("Invalid choice. Please enter 1 or 2.");
+                    Console.WriteLine("hello maam.");
                     Console.Write("Choice: ");
                     choice = Console.ReadLine();
                 }
@@ -43,6 +44,7 @@ namespace BirthdayProgram
 
                     default:
                         Console.WriteLine("Invalid choice. Please try again.");
+                        Console.WriteLine("hello payal maam");
                         break;
                 }
             }
