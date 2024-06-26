@@ -43,6 +43,7 @@ namespace BirthdayProgram
 
                     default:
                         Console.WriteLine("Invalid choice. Please try again.");
+                        Console.WriteLine("hello payal maam");
                         break;
                 }
             }
